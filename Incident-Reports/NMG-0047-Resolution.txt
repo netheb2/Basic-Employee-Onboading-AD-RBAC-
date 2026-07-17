@@ -1,0 +1,8 @@
+Ticket number: NMG-0047
+Affected user: Jane Cooper (jcooper@NMG.com)
+Issue reported: Unable to access HR shared resources. Desktop policies and mapped drives differ from teammates.
+Root cause: (Describe both problems you found in your own words)
+Fix applied: (Describe exactly what you changed and why)
+Verification: (Describe how you confirmed the fix worked)
+Date resolved: (Today's date)
+Resolved by: IT New Hire

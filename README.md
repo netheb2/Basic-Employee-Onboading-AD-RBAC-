@@ -34,5 +34,5 @@ We also simulated a ticket where a user is put in the wrong user-group and OU.
 
 ## Key Accomplishments
 * Built NMG.com domain from scratch
-* [Add your second key accomplishment here]
-* [Add your third key accomplishment here]
+* Solved a miock ticket where a user where assigned to the wrong Security group and OU.
+* Fully documented the step by step process 

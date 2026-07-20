@@ -34,5 +34,7 @@ We also simulated a ticket where a user is put in the wrong user-group and OU.
 
 ## Key Accomplishments
 * Built NMG.com domain from scratch
-* Solved a miock ticket where a user where assigned to the wrong Security group and OU.
-* Fully documented the step by step process 
+* Designbed department-based OU structure (Finance, HR, It, Operations)
+* Implemented RBAC with security groups mapped to each department
+* Provisioned 15 user accounts with consistent naming conventions and attribute standards
+* Fully documented incident resolution with root cause analysis.

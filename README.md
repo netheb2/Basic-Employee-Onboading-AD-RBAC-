@@ -1,7 +1,7 @@
 # Basic Employee Onboarding (AD)(RBAC)
-* Northstar is a fiction company, at the beginning the company was managed by a MSP company to run the IT operations.
-* As the company is growing, everything was disorganized and choatic because some get more permissions or less.
-* Departments aren't properly organized with NO RBAC policies, No Audits trails and NO HPPA risks.
+* Northstar is a fictional company, at the beginning the company was managed by a MSP company to run the IT operations.
+As the company is growing, everything was disorganized and choatic because some get more permissions or less.
+Departments aren't properly organized with NO RBAC policies, No Audits trails and NO HPPA risks.
 
 ## Problem Statement
 [Provide 3 to 5 sentences describing what was broken at Northstar Medical Group. Mention the MSP mismanagement, lack of structure, manual processes, and HIPAA risks that existed before your project.]
